@@ -1,0 +1,11 @@
+def themeh(l):
+r = []
+t = []
+    for element in l:
+        if element in l = int:
+            if element < 0:
+                r = r += (element)
+            else:
+                #ignore
+        else:
+            ignore
